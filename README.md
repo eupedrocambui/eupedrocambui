@@ -1,16 +1,14 @@
-## Hi there 👋
+## 👨‍💻 Pedro Cambui Martins
 
-<!--
-**eupedrocambui/eupedrocambui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```Estudante de Ciência da Computação - Universidade Estadual do Oeste do Paraná | Unioeste```
 
-Here are some ideas to get you started:
+Cursando Ciência da Computação, atualmente no 3º período, na Universidade Estadual do Oeste do Paraná (Unioeste). Apaixonado por tecnologia e desenvolvimento, conheci o mundo da programação aos 15 anos de idade,
+despertando em mim um enorme interesse pela área.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Ao longo da graduação, venho desenvolvendo conhecimentos em desenvolvimento web, além de aprimorar habilidades em lógica de programação, boas práticas de desenvolvimento e comunicação.
+Busco sempre evoluir pessoal e tecnicamente, aprendendo novas tecnologias e adquirindo experiências práticas por meio de projetos acadêmicos e pessoais.
+
+## Linguagens e Ferramentas
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,git)](https://skillicons.dev)
+
+## Idiomas
