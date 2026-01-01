@@ -12,3 +12,7 @@ Busco sempre evoluir pessoal e tecnicamente, aprendendo novas tecnologias e adqu
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,py,git)](https://skillicons.dev)
 
 ## Idiomas
+
+<img src="brazil-flag.png" width="15" alt="Brazil Flag"> Português Nativo
+
+<img src="us-flag.png" width="15" alt="Brazil Flag"> Inglês Avançado
