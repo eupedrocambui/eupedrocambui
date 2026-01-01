@@ -13,6 +13,5 @@ Busco sempre evoluir pessoal e tecnicamente, aprendendo novas tecnologias e adqu
 
 ## Idiomas
 
-<img src="brazil-flag.png" width="15" alt="Brazil Flag"> Português Nativo
-
-<img src="us-flag.png" width="15" alt="Brazil Flag"> Inglês Avançado
+![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png "Brazil") Português Nativo</br>
+![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States") Inglês Avançado
